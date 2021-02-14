@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "priton"
+version = "0.1.0"
+description = "for dating in the world :)"
+authors = ["Ilya Yudin  <nibezo.cs@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
