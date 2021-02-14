@@ -6,6 +6,7 @@ authors = ["Ilya Yudin  <nibezo.cs@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+vkwave = {url = "https://github.com/fscdev/vkwave/archive/master.zip"}
 
 [tool.poetry.dev-dependencies]
 
