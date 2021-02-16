@@ -4,6 +4,8 @@ from pony import orm
 
 db = orm.Database()
 
+# every class is a table in the database
+
 
 class User(db.Entity):
     """User's table."""
@@ -46,6 +48,8 @@ def get_db_credentials(source):
         "database": url.path[1:],
     }
 
+
+# get credentials
 
 db.bind(provider="postgres", **get_db_credentials(os.getenv("DATABASE_URL")))
 db.generate_mapping(create_tables=True)
