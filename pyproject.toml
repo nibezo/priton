@@ -5,8 +5,10 @@ description = "for dating in the world :)"
 authors = ["Ilya Yudin  <nibezo.cs@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 vkwave = {url = "https://github.com/fscdev/vkwave/archive/master.zip"}
+pony = "^0.7.14"
+psycopg2-binary = "^2.8.6"
 
 [tool.poetry.dev-dependencies]
 
