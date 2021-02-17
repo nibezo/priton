@@ -1,6 +1,8 @@
 # priton
 Simple dating 💖 bot for Python, VKWave and pony learning. 
 
+![aext](https://github.com/nibezo/priton/blob/main/priton.png?raw=true)
+
 What I learn? 
 - Repeat and learn something new in Python
 - Learn how to work with VKWave
