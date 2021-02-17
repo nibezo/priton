@@ -10,4 +10,4 @@ What I learn?
 - Learn how to work with PostgreSQL
 - Learn how to work better with Git
 - Learn how to work with VK API
-- Learn Linux using (20.04.1 LTS)
+- Learn Linux using (Ubuntu 20.04.1 LTS)
