@@ -9,6 +9,7 @@ python = "^3.8"
 vkwave = {url = "https://github.com/fscdev/vkwave/archive/master.zip"}
 pony = "^0.7.14"
 psycopg2-binary = "^2.8.6"
+loguru = "^0.5.3"
 
 [tool.poetry.dev-dependencies]
 
