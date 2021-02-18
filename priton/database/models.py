@@ -20,7 +20,7 @@ class User(db.Entity):
 class Action(db.Entity):
     """List of available actions."""
     description = orm.Required(str)
-    view_historys = orm.Set('ViewHistory')
+    view_histories = orm.Set('ViewHistory')
 
 
 class ViewHistory(db.Entity):
