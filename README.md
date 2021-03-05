@@ -1,5 +1,5 @@
 # priton
-Simple dating 💖 bot for learning Pyhton and etc. And for fun!
+Simple dating 💖 bot for learning Pyhton and for course project in my university. And for fun!
 
 ![g](https://github.com/nibezo/priton/blob/main/priton_readme.png?raw=true)
 
@@ -10,4 +10,4 @@ What I learn?
 - Learn how to work with PostgreSQL
 - Learn how to work better with Git
 - Learn how to work with VK API
-- Learn Linux using (Ubuntu 20.04.1 LTS)
+- Learn Linux using (Manjaro 20.2.1)
